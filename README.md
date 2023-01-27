@@ -1,4 +1,4 @@
-# Projec-AP
+# Project-AP
 # run server
      
 ```bash
